@@ -1,0 +1,17 @@
+1>La cantidad es 0.
+2>
+3>1 no está en la cadena.
+4>Se insertó (9,9.00) al inicio de la cadena.
+5>La cantidad es 1.
+6>(9,9.00)
+7>1 no está en la cadena.
+8>9 está en la cadena.
+9>Se insertó (10,10.00) al inicio de la cadena.
+10>Se insertó (7,7.00) al inicio de la cadena.
+11>Se insertó (14,14.00) al inicio de la cadena.
+12>La cantidad es 4.
+13>(14,14.00)(7,7.00)(10,10.00)(9,9.00)
+14>1 no está en la cadena.
+15>9 está en la cadena.
+16>14 está en la cadena.
+17>Fin.

@@ -1,0 +1,30 @@
+1>Se insertó (8,8.00) en la cadena 2.
+2>Se insertó (8,18.00) en la cadena 2.
+3>Se insertó (8,28.00) en la cadena 2.
+4>Se insertó (8,38.00) en la cadena 2.
+5>Se insertó (5,5.00) en la cadena 2.
+6>Se insertó (8,8.00) en la cadena 9.
+7>Se insertó (8,18.00) en la cadena 9.
+8>Se insertó (8,28.00) en la cadena 9.
+9>Se insertó (8,38.00) en la cadena 9.
+10>La cantidad en la cadena 2 es 5.
+11>La primera aparición de 8 en la cadena 2 es (8,38.00)
+12>Se removió la primera aparición de 8 de la cadena 2.
+13>La primera aparición de 8 en la cadena 2 es (8,28.00)
+14>La primera aparición de 8 en la cadena 9 es (8,38.00)
+15>Se removió la primera aparición de 8 de la cadena 9.
+16>Se removió la primera aparición de 8 de la cadena 9.
+17>La primera aparición de 8 en la cadena 2 es (8,28.00)
+18>La primera aparición de 8 en la cadena 9 es (8,18.00)
+19>Se removió la primera aparición de 8 de la cadena 2.
+20>Se removió la primera aparición de 8 de la cadena 2.
+21>La primera aparición de 8 en la cadena 2 es (8,8.00)
+22>La primera aparición de 8 en la cadena 9 es (8,18.00)
+23>La cantidad en la cadena 2 es 2.
+24>La cantidad en la cadena 5 es 0.
+25>La cantidad en la cadena 9 es 2.
+26>Se removió la primera aparición de 8 de la cadena 2.
+27>La primera aparición de 5 en la cadena 2 es (5,5.00)
+28>Se removió la primera aparición de 5 de la cadena 2.
+29>La cantidad en la cadena 2 es 0.
+30>Fin.

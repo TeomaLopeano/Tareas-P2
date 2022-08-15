@@ -1,0 +1,20 @@
+insertarEnColCadenas 5 5.0 4
+cantidadColCadenas 1
+cantidadColCadenas 5
+estaEnColCadenas 3 0
+estaEnColCadenas 5 4
+infoEnColCadenas 5 4
+insertarEnColCadenas 3 13.1 4
+insertarEnColCadenas 3 13.1 5
+estaEnColCadenas 3 0
+estaEnColCadenas 3 4
+estaEnColCadenas 3 5
+insertarEnColCadenas 5 15.0 5
+insertarEnColCadenas 6 6.0 5
+insertarEnColCadenas 7 7.0 5
+cantidadColCadenas 1
+cantidadColCadenas 4
+cantidadColCadenas 5
+infoEnColCadenas 5 4
+infoEnColCadenas 5 5
+Fin

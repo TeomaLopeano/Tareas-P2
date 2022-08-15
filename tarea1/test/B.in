@@ -1,0 +1,17 @@
+cantidadEnCadena
+imprimirCadena
+estaEnCadena 1
+insertarAlInicio 9 9.0
+cantidadEnCadena
+imprimirCadena
+estaEnCadena 1
+estaEnCadena 9
+insertarAlInicio 10 10.0
+insertarAlInicio 7 7.0
+insertarAlInicio 14 14.0
+cantidadEnCadena
+imprimirCadena
+estaEnCadena 1
+estaEnCadena 9
+estaEnCadena 14
+Fin

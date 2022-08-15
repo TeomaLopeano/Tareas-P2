@@ -1,0 +1,30 @@
+insertarEnColCadenas 8 8.0 2
+insertarEnColCadenas 8 18.0 2
+insertarEnColCadenas 8 28.0 2
+insertarEnColCadenas 8 38.0 2
+insertarEnColCadenas 5 5.0 2
+insertarEnColCadenas 8 8.0 9
+insertarEnColCadenas 8 18.0 9
+insertarEnColCadenas 8 28.0 9
+insertarEnColCadenas 8 38.0 9
+cantidadColCadenas 2
+infoEnColCadenas 8 2
+removerDeColCadenas 8 2
+infoEnColCadenas 8 2
+infoEnColCadenas 8 9
+removerDeColCadenas 8 9
+removerDeColCadenas 8 9
+infoEnColCadenas 8 2
+infoEnColCadenas 8 9
+removerDeColCadenas 8 2
+removerDeColCadenas 8 2
+infoEnColCadenas 8 2
+infoEnColCadenas 8 9
+cantidadColCadenas 2
+cantidadColCadenas 5
+cantidadColCadenas 9
+removerDeColCadenas 8 2
+infoEnColCadenas 5 2
+removerDeColCadenas 5 2
+cantidadColCadenas 2
+Fin

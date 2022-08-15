@@ -1,0 +1,15 @@
+cantidadEnCadena
+estaEnCadena 5
+insertarAlInicio 5 5.0
+infoCadena 5
+estaEnCadena 3
+imprimirCadena
+cantidadEnCadena
+cantidadColCadenas 1
+insertarEnColCadenas 3 3.0 1
+cantidadColCadenas 1
+estaEnColCadenas 3 1
+estaEnColCadenas 5 1
+estaEnColCadenas 3 8
+infoEnColCadenas 3 1
+Fin

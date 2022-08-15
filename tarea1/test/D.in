@@ -1,0 +1,20 @@
+insertarAlInicio 1 2.1
+insertarAlInicio 1 1.1
+insertarAlInicio 11 11.1
+insertarAlInicio 15 15.0
+removerDeCadena 15
+imprimirCadena
+estaEnCadena 15
+infoCadena 1
+removerDeCadena 1
+estaEnCadena 1
+infoCadena 1
+removerDeCadena 1
+estaEnCadena 1
+removerDeCadena 11
+imprimirCadena
+insertarAlInicio 1 3.1
+estaEnCadena 1
+infoCadena 1
+imprimirCadena
+Fin

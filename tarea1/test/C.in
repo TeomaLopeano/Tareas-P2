@@ -1,0 +1,14 @@
+insertarAlInicio 23 23.0
+cantidadEnCadena
+infoCadena 23
+insertarAlInicio 11 11.1
+insertarAlInicio 21 21.0
+insertarAlInicio 8 8.0
+insertarAlInicio 13 13.0
+imprimirCadena
+estaEnCadena 11
+estaEnCadena 12
+estaEnCadena 13
+infoCadena 11
+infoCadena 13
+Fin
